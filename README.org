@@ -1,4 +1,10 @@
-#+TITLE: AoC 2017
+#+TITLE: Advent of Code 2017
 #+AUTHOR: Chris Smeele
 
-* A
+These are my solutions for the [[http://adventofcode.com/2017/][Advent of Code 2017]]! 🎉
+
+I will most likely be using the following languages:
+
+- 👾 Scheme, because I 💘 Lisp and want to get better at it.
+- 🦋 Perl 6 when I'm feeling particularly adventurous.
+- 🐪 Perl 5 when I'm feeling lazy or when time's running out :-)
